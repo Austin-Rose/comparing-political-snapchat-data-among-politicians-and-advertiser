@@ -7,4 +7,4 @@ Firstly, I decided to create linear regression models using open data on Snapcha
 
 ![Bloomberg](LinearRegression_Bloomberg.PNG) (Figure 2 - Linear Regression Model Comparing Spending and RunTime for Bloomberg)
 
-As seen by figures 4 and 5, there aren't enough data points to show that Spending is even stastically significant for Warren and Biden. Additionally, Trump, in figure 3, didn't have any EndDate's for his political ads (whether or not it may be that his ads are still running). Moreover, the only two candidates with statistically significant data are shown above
+As seen by figures 4 and 5 (shown at the end), there aren't enough data points to show that Spending is even stastically significant for Warren and Biden. Additionally, Trump, in figure 3 (shown at the end), didn't have any EndDate's for his political ads (whether or not it may be that his ads are still running) so a RunTime could not be calculated. Spending for Trump was statistically significant, as suspected. Moreover, 
