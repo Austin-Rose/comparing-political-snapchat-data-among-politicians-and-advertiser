@@ -28,7 +28,7 @@ Something else that was peculiar was the effect that RunTime actually had on imp
 
 In conclusion, RunTime appears to have multiple variables affecting its influence on impressions, the first being who the candidate of the political ad is. RunTime was insignificant for most candidates, except for Pete. In addition to this, time does appear to have some sort of effect on when RunTime does affect impressions, however more data is required to come to a true conclusion. Finally, among the 5 candidates, the effect of Spending on impressions differed greatly; with it being the most effective for Trump, then Pete, and, lastly Bloomberg (with spending being statistically insignificant for Warren and Biden).
 
-# Figures
+# Additional Figures
 ![Trump](LinearRegression_Trump.PNG) (Figure 6 - Linear Regression Model Comparing Spending for Trump)
 
 ![Warren](LinearRegression_Warren.PNG) (Figure 7 - Linear Regression Model Comparing Spending for Warren)
