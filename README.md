@@ -20,7 +20,9 @@ However, I also questioned whether spending is more impactful for specific candi
 
 ![2018](LinearRegression_Voto2020.PNG) (Figure 5 - Linear Regression Model Comparing Spending and RunTime for Voto Latino 2018)
 
-Alternatively, I wanted to see if the effect of RunTime on impressions differs yearly. In order to do compare this, I found Voto Latino, an advertiser that paid for advertisements from 2018-2020. The results of the regression models are shown above in Figures 3, 4, and 5. Something that was peculiar was that RunTime was statistically significant for two of the three years, with it being statistically insignificant in 2019, where Figure 10 shows the updated model for that. Something else peculiar was the effect that RunTime actually had on impressions in comparison to Pete's model from Part 1. Whereas increased RunTime causes an increase in impressions for Pete, the longer the RunTime for Voto Latino, the less impressions they received. Thus, time is a variable that does appear to affect impressions with what little data I compared with Voto Latino. 
+Alternatively, I wanted to see if the effect of RunTime on impressions differs yearly. In order to do compare this, I found Voto Latino, an advertiser that paid for advertisements from 2018-2020. The results of the regression models are shown above in Figures 3, 4, and 5. Something that was peculiar was that RunTime was statistically significant for two of the three years, with it being statistically insignificant in 2019, where Figure 10 shows the updated model for that. 
+
+Something else that was peculiar was the effect that RunTime actually had on impressions in comparison to Pete's model from Part 1. Whereas increased RunTime caused an increase in impressions for Pete, the longer the RunTime for Voto Latino, the less impressions they received. Altogether, time is a variable that does appear to affect impressions with what little data I compared with Voto Latino. 
 
 # Conclusion
 
