@@ -40,6 +40,7 @@ In conclusion, RunTime appears to have multiple variables affecting its influenc
 ![VotoLatino2019Adj.](LinearRegression_Voto2019Adj.PNG) (Figure 10 - Linear Regression Model Comparing Spending for Voto Latino 2019)
 
 ![Pete](Graph_Pete.PNG) 
+
 (Figure 11 - Scatter Plot with Trendline for RunTime and Impressions for Pete)
 
 # Links
