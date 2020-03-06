@@ -1,1 +1,1 @@
-# comparing-snapchat-election-advertising-data-runtime-spend-impressions
+# Comparing Politcal Snapchat Data (RunTime & Spending vs Impressions) Among Politicians and Time
