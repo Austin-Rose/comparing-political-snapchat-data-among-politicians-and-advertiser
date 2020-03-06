@@ -34,7 +34,7 @@ In conclusion, RunTime appears to have multiple variables affecting its influenc
 ![Biden](LinearRegression_Biden.PNG) (Figure 8 - Linear Regression Model Comparing Spending for Biden)
 ![BloombergAdjusted](LinearRegression_BloombergAdj.PNG) (Figure 9 - Linear Regression Model Comparing Spending for Bloomberg)
 ![VotoLatino2019Adj.](LinearRegression_Voto2019Adj.PNG) (Figure 10 - Linear Regression Model Comparing Spending for Voto Latino 2019)
-![Pete](Graph_Pete) (Figure 11 - Scatter Plot with Trendline for RunTime and Impressions for Pete)
+![Pete](Graph_Pete.PNG) (Figure 11 - Scatter Plot with Trendline for RunTime and Impressions for Pete)
 
 # Links
 
