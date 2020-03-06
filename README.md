@@ -38,5 +38,7 @@ In conclusion, RunTime appears to have multiple variables affecting its influenc
 # Links
 
 [Excel - Data](Data.xlsx)
+
 [Data Sets](https://www.snap.com/en-US/political-ads/)
+
 [Images]
