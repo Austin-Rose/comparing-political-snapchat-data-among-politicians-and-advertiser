@@ -8,7 +8,7 @@ Firstly, I decided to create linear regression models using open data on Snapcha
 
 ![Bloomberg](LinearRegression_Bloomberg.PNG) (Figure 2 - Linear Regression Model Comparing Spending and RunTime for Bloomberg)
 
-As seen by Figures 7 and 8 (shown at the end), there aren't enough data points to show that Spending is even stastically significant for Warren and Biden. Additionally, Trump, in Figure 6 (shown at the end), didn't have any EndDate's for his political ads (whether or not it may be that his ads are still running) so a RunTime could not be calculated. Spending for Trump was statistically significant, as suspected. Moreover, Figure 2 shows that RunTime is statistically insignificant for Bloomberg, however spending is and Figure 9 shows the correct regression model for Bloomberg. The most interesting result is that of Pete's linear regression model. Out of the 5 candidates, Figure 1 shows that RunTime is actually statistically significant. So, finally, RunTime actually was statistically significant among a regression model alongside Spending. 
+As seen by Figures 7 and 8 (shown at the end), there aren't enough data points to show that Spending is even stastically significant for Warren and Biden. Additionally, Trump, in Figure 6 (shown at the end), didn't have any EndDate's for his political ads (whether or not it may be that his ads are still running) so a RunTime could not be calculated. Spending for Trump was statistically significant, as suspected. Moreover, Figure 2 shows that RunTime is statistically insignificant for Bloomberg, however spending is and Figure 9 shows the correct regression model for Bloomberg. The most interesting result is that of Pete's linear regression model. Out of the 5 candidates, Figure 1 shows that RunTime is actually statistically significant. Figure 11 shows that alone, RunTime doesn't explain much of the data at all, however, finally, RunTime actually was statistically significant among a regression model alongside Spending. 
 
 However, I also questioned whether spending is more impactful for specific candidates. So, using the proper linear regression models for each candidate (Figures 1, 6, 7, 8, 9), we can begin to compare the effects of spending. Beginning with Trump, the regression model fits about 85% of the data as taken from the r-squared value. With this in mind, the coefficient for spending is 1415, meaning for each dollar spent on political ads on Snapchat, Trump receives 1415 impressions. Pete's model fits about 95% of the data and he receives 418 impressions per dollar spent. Then, Bloomberg's model fits only 48% of the data and he only receives 243 impressions per dollar spent. Warren and Biden's models were statistically insignificant. Thus, it can be concluded that spending money on ads is most useful for Trump and the least useful for Bloomberg, with about a 1000 unit gap between Trump and Pete; additionally, it is concluded that the effect of RunTime on impressions does differ between political candidates.
 
@@ -34,11 +34,10 @@ In conclusion, RunTime appears to have multiple variables affecting its influenc
 ![Biden](LinearRegression_Biden.PNG) (Figure 8 - Linear Regression Model Comparing Spending for Biden)
 ![BloombergAdjusted](LinearRegression_BloombergAdj.PNG) (Figure 9 - Linear Regression Model Comparing Spending for Bloomberg)
 ![VotoLatino2019Adj.](LinearRegression_Voto2019Adj.PNG) (Figure 10 - Linear Regression Model Comparing Spending for Voto Latino 2019)
+![Pete](Graph_Pete) (Figure 11 - Scatter Plot with Trendline for RunTime and Impressions for Pete)
 
 # Links
 
 [Excel - Data](Data.xlsx)
 
 [Data Sets](https://www.snap.com/en-US/political-ads/)
-
-[Images]
